@@ -2,18 +2,26 @@
 ## 个人简介
 ##### 我是真的萌新……相信我
 - 爱音乐，也能做一些音乐
-    
+  
     是B站~~年更~~UP主
     
-    B站ID是 [Halo-zhang](https://space.bilibili.com/74078494)
-    (点进去别忘了素质三连哦)
+    B站ID是 [迷雾光晕](https://space.bilibili.com/74078494)
+    (看到了有意思的视频别忘了素质三连哦，实在不行给个赞嘛)
 - 代码技术并不好，数学也不好
 - 有时也会搞搞硬件
-    > 原因  
-    > 1.自诩重装系统老司机  
+    > 原因 
+    > 1.自诩重装系统老司机（但是也好久没动过手了）
     > 2.玩过Arduino
 
-[^原因]: 1.重装过很多次系统\n2.玩过arduino
+## 关于头像
+
+ID:65770005
+
+https://www.pixiv.net/artworks/65770005
+
+头像来自P站的，但愿这样直接下载下来当头像用没有版权问题吧
+
+之后还是打算找人约个稿，重新画一个当作头像吧，还是担心版权问题?
 
 ## Codewars
     部分codewars的题目代码也放在里面了……
@@ -23,4 +31,3 @@
 cout<<"Hello World!\n";
 ```
 
-![P站ID:65770005](http://r.photo.store.qq.com/psb?/4caecda6-ef39-4b5f-aaa6-ef43ccb3b6d8/MA15T.yxICfme29vuXXzriLqPnEA9EK9*5CoiJHglgY!/r/dFMBAAAAAAAA)
