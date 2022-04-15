@@ -12,7 +12,7 @@ Java，C，还有一点点 Golang
     
 - 有时也会搞搞硬件
   
-    > 玩过 Arduino、树莓派
+    玩过 Arduino、树莓派
 
 ## 关于头像
 
